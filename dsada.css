@@ -1,0 +1,27 @@
+/* Container holding the image and the text */
+.contain-fluid {
+    border-bottom: ridge ;
+  }
+
+  /* Centered text */
+
+  .footer-web {
+    color:white;
+    margin-left: 10px;
+  }
+
+  .menu-icon{
+    background-color: darkred;
+    color: darkred;
+    border: none;
+    font-size: 17px;
+    margin-top: 35px;
+    
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
